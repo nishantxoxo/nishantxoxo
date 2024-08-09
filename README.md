@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A video conferencing app<br>🌱 I’m currently learning Nodejs<br>💬 Ask me about app development<br>⚡ Fun fact: I'm a coder who loves trading
+🔭 I’m currently working on A news app<br>🌱 I’m currently learning Nodejs<br>💬 Ask me about app development<br>⚡ Fun fact: I'm a coder who loves trading
 
 
 ## 🌐 Socials:
