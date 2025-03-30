@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A Scribble Game app<br>🌱 I’m currently learning Nodejs<br>💬 Ask me about app development<br>⚡ Fun fact: I'm a coder who loves trading
+🔭 I’m currently working on A Ping Pong Game<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about app development<br>⚡ Fun fact: I'm a coder who loves trading
 
 
 ## 🌐 Socials:
