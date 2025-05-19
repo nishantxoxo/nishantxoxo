@@ -11,7 +11,8 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nishant_xoxo&theme=dark)](https://git.io/streak-stats)<br>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nishantxoxo&theme=dark)<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantxoxo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
