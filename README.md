@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant</h1>
 <h3 align="center">A passionate android app developer</h3>
 
-- 🔭 I’m currently working on **Nearby Device File Sharing App**
+- 🔭 I’m currently working on **A music streaming app**
 
 - 🌱 I’m currently learning **GoLang**
 
@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ifvDC-q7dAcTPGRwpY6gId_S_UKyii6h/view?usp=sharing)
 
-- ⚡ Fun fact **I can speak 4 different languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
